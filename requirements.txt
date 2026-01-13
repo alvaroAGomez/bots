@@ -1,4 +1,8 @@
-python-telegram-bot[job-queue]
-pandas
+python-telegram-bot==20.7
 requests
+pandas
 lxml
+nest-asyncio
+matplotlib
+python-dotenv
+pytz
